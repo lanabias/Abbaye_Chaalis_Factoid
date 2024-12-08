@@ -1,30 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!ELEMENT teiHeader (fileDesc, encodingDesc?, profileDesc?, revisionDesc?)>
-
-<!ELEMENT fileDesc (titleStmt, publicationStmt, sourceDesc)>
-<!ELEMENT encodingDesc (projectDesc?, samplingDecl?, editorialDecl?, tagsDecl?, refsDecl*, classDecl?, metDecl*, charDecl*)>
-<!ELEMENT profileDesc (creation?, langUsage?, textClass?, handNotes?)>
-<!ELEMENT revisionDesc (change+)>
-
-<!ELEMENT titleStmt (title+, author*, editor*, sponsor*, funder*, principal*, respStmt*)>
-<!ELEMENT publicationStmt (publisher?, distributor?, authority?, pubPlace*, address*, idno*, availability?, date?)>
-<!ELEMENT sourceDesc (p+)>
-
-<!ELEMENT title (#PCDATA)>
-<!ELEMENT author (#PCDATA)>
-<!ELEMENT p (#PCDATA)>
-<!ELEMENT date (#PCDATA)>
-
-<!ATTLIST teiHeader xml:lang CDATA #IMPLIED xml:id ID #IMPLIED>
-
-
-
-
 <!ELEMENT text (body)>
 <!ELEMENT body (charte+)>
 <!ELEMENT charte (p | persName | relation)*>
 
+<!ELEMENT p (#PCDATA)>
 <!ELEMENT persName (#PCDATA)>
 <!ATTLIST persName xml:id ID #REQUIRED role CDATA #IMPLIED>
 
@@ -35,5 +15,4 @@
     mutual IDREFS #IMPLIED
     passive IDREF #IMPLIED
     type (familial|social|legal|other) #REQUIRED>
-
 
