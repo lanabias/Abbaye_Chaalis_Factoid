@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI 
+[
+<!ENTITY % menota_entities SYSTEM 'menota_entities.txt'>
+%menota_entities; ]>
+
+<?xml-model href="out/Factoid.odd.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="out/Factoid.odd.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader xml:lang="en">
+      <fileDesc>
+         <titleStmt>
+            <title>France, Paris, Bibliothèque nationale de France, Latin 11003</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>
+               <persName>
+                  <forename>NABIAS</forename>
+                  <surname>Laurent</surname>
+                  <email>laurent.nabias@gmail.com</email>
+                  <affiliation>University of Sorbonne Nouvelle, University of Paris Nanterre</affiliation>
+                  <idno type="ORCID">0000-0001-8477-0034</idno>
+               </persName>
+            </authority>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-nc/4.0/">Distributed under a
+                  Cretive Commons Attribution-NonCommercial 4.0 International (CC BY-NC
+                  4.0).</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:id="Ms-Paris-BNF-Lat-11003">
+               <msIdentifier>
+                  <country>France</country>
+                  <settlement>Paris</settlement>
+                  <repository xml:lang="fr">Bibliothèque nationale de France</repository>
+                  <idno>Latin 11003</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem n="1" class="fragment" defective="false">
+                     <!-- First fragment of manuscript -->
+                     <locus from="156v°" to="157"/>
+                     <author xml:lang="fr">Prevost</author>
+                     
+                     <title type="uniform" xml:lang="fr">Cartulaire de l'abbaye de Chaalis</title>
+                     <textLang mainLang="la"/>
+                     
+                     <msItem n="550" class="charte" defective="false">
+                        <!-- First charter number 550 in the third fragment  -->
+                        <locus from="156v°°" to="156v°"/>
+                        <title type="supplied"> Charter number 550   </title>
+                        <bibl>BnF ms. Lat 11003 n°550
+                           Analysis number 549 on the website regest pages 130 on IHRT : https://regecart.irht.cnrs.fr/dossier-137-R1/ms-0117
+                        </bibl>
+                     </msItem>
+                     <msItem n="551" defective="false">
+                        <!-- Second charter number 551 in the third fragment  -->
+                        <locus from="156v°°" to="156v°"/>
+                        <title type="supplied">Charter number 551</title>
+                        <bibl>BnF ms. Lat 11003 n°551
+                           Analysis number 550 on the website regest pages 130 on IHRT : https://regecart.irht.cnrs.fr/dossier-137-R1/ms-0117
+                        </bibl>
+                     </msItem>
+                     <msItem n="552" defective="false">
+                        <!-- Third charter number 552 in the third fragment  -->
+                        <locus from="156v°" to="156v°"/>
+                        <title type="supplied">Charter numbr 552</title>
+                        <bibl>BnF ms. Lat 11003 n°552
+                           Analysis number 551 on the website regest pages 131 on IHRT : https://regecart.irht.cnrs.fr/dossier-137-R1/ms-0117
+                        </bibl>
+                     </msItem>
+                     <msItem n="554" defective="false">
+                        <!-- Third charter number 553 in the third fragment  -->
+                        <locus from="156v°" to="157"/>
+                        <title type="supplied">Charter number 553</title>
+                        <bibl>BnF ms. Lat 11003 n°553
+                           Analysis number 552 on the website regest pages 131 on IHRT : https://regecart.irht.cnrs.fr/dossier-137-R1/ms-0117
+                        </bibl>
+                     </msItem>
+                     <msItem n="555" defective="false">
+                        <!-- Fourth charter number 554 in the fourth fragment  -->
+                        <locus from="157" to="157"/>
+                        <title type="supplied">Charter numbr 554</title>
+                        <bibl>BnF ms. Lat 11003 n°554
+                           Analysis number 553 on the website regest pages 131 on IHRT : https://regecart.irht.cnrs.fr/dossier-137-R1/ms-0117
+                        </bibl>
+                     </msItem>
+                     <msItem n="555" defective="false">
+                        <!-- Fifth charter number 555 in the fifth fragment  -->
+                        <locus from="157" to="157"/>
+                        <title type="supplied">Charter numbr 555</title>
+                        <bibl>BnF ms. Lat 11003 n°555
+                           Analysis number 554 on the website regest pages 131-132 on IHRT : https://regecart.irht.cnrs.fr/dossier-137-R1/ms-0117
+                        </bibl>
+                     </msItem>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="perg">
+                        <support>
+                           <num type="front-flyleaf" value="2"/>
+                           <num type="book-block" value="42"/>
+                           <num type="end-flyleaf" value="2"/>
+                           <dimensions type="leaf">
+                              <height unit="mm" quantity="175"/>
+                              <width unit="mm" quantity="135"/>
+                           </dimensions>
+                        </support>
+                        <foliation>400 fol. </foliation>
+                        <collation></collation>
+                        <condition> </condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout columns="1" writtenLines="24">
+                           <dimensions type="written">
+                              <height unit="mm" quantity="120"/>
+                              <width unit="mm" quantity="80"/>
+                           </dimensions>
+                        </layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc hands="1">
+                     <handNote script="gothic-textura">The manuscript is written in gothic textura
+                        by a single hand, <name type="person" role="scribe">Pantaleon da
+                           Crema</name>.</handNote>
+                  </handDesc>
+                  <decoDesc>
+                     <decoNote type="paragraphMark">There are paragraph marks in red signalling the
+                        beginning of sentences throughout the manuscript.</decoNote>
+                  </decoDesc>
+                  <additions>
+                     <p>These marginal notes are either analysis titles that appear mainly from folio 115 onwards, that is, 
+                        when the rubricated titles preceding the transcription of acts or analyses disappear.
+                        These analysis titles are sometimes reduced to a single word such as "Admortizatio" or "Admortizatio generalis" or "quittatio" or "excambium", 
+                        or such as subject keywords as "garenna", "decima", "pasture", or such geographical names, or the value of the annuity.</p>
+                  </additions>
+                  <bindingDesc>
+                     <binding contemporary="true">
+                        <p>Red morocco binding with Louis-Philippe's cipher, Tripier-Bradel June 6, 1845.</p>
+                     </binding>
+                  </bindingDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate notBefore="1317" notAfter="1400">This cartulary inventory was composed of a single hand in the first quarter of the 14th century, probably shortly after 1317.</origDate>
+                     <origPlace cert="high"><name type="place">Chaalis</name>, France.</origPlace>
+                  </origin>
+                  <provenance> Most of the analyzes are very probably in the hand of a monk from the abbey who collated the contents of this cartulary with the originals which were undoubtedly located in Chaalis.</provenance>
+                  <acquisition>The manuscript was acquired by the Bibliothèque nationale de France in Paris in 1832.</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>First catalogued on <date when="1832">1832</date> as a part of cartularies of the imperial library </source>
+                        <change>Catalogued updated as a part of Suppl.1 n°541</change>
+                        <change>Catalogued updated as a part of latin fond (LAT) and named LAT 11003</change>
+                     </recordHist>
+                  </adminInfo>
+                  <surrogates>
+                     <p>A facsimile of the manuscript is available on 
+                        <ref type="url" target="https://gallica.bnf.fr/ark:/12148/btv1b53164669h">Gallica</ref>.
+                     </p>
+                  </surrogates>
+                  <listBibl>
+                     <bibl></bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+            <listPerson>
+               <person>
+                  <persName xml:id="SIM-01">
+                     <forename>Simon</forename>
+                     <nameLink>of</nameLink>
+                     <surname>POISSY</surname>
+                     <roleName>militis</roleName>
+                     <idno type="wikidata"></idno>
+                  </persName>
+               </person>
+
+               <person>
+                  <persName xml:id="BOU-01">
+                     <forename>Raoul</forename>
+                     <nameLink>of</nameLink>
+                     <surname>BOUTEILLER</surname>
+                     <roleName>militis</roleName>
+                     <idno type="wikidata"></idno>
+                  </persName>
+               </person>
+               <person>
+                  <persName xml:id="BOL-01">
+                     <forename>Mathilde</forename>
+                     <nameLink>of</nameLink>
+                     <surname>BOLOGNE</surname>
+                     <roleName>comitissa of Bologne and of Dammartin</roleName>
+                     <idno type="wikidata">Q257001</idno>
+                  </persName>
+               </person>
+               <person>
+                  <persName xml:id="NAN-01">
+                     <forename>johan</forename>
+                     <nameLink>of</nameLink>
+                     <surname>Nantouillet</surname>
+                     <roleName>militis</roleName>
+                     <idno type="wikidata"></idno>
+                  </persName>
+               </person>
+               <person>
+                  <persName xml:id="CHA-01">
+                     <forename>Guillaume</forename>
+                     <nameLink>of</nameLink>
+                     <surname>CHANTILLY</surname>
+                     <roleName></roleName>
+                     <idno type="wikidata"></idno>
+                  </persName>
+               </person>
+               <person>
+                  <persName xml:id="CHA-02">
+                     <forename>johan</forename>
+                     <nameLink>of</nameLink>
+                     <surname>CHANTILLY</surname>
+                     <roleName></roleName>
+                     <idno type="wikidata"></idno>
+                  </persName>
+               </person>
+               <person>
+                  <persName xml:id="JEA-01">
+                     <forename>jehanne</forename>
+                     <nameLink>of</nameLink>
+                     <surname></surname>
+                     <roleName>spouse of Johan of Chantilly</roleName>
+                     <idno type="wikidata"></idno>
+                  </persName>
+               </person>
+            </listPerson>
+            <listOrg>
+               <org>
+                  <orgName xml:id="CHAALIS">religious men, abbot and convent of Chaalis abbey</orgName>
+                  <desc>Also church of Chaalis, "ecclesie karoliloci", religious men, abbot and convent of Chaalis abbey is considered as an religious institution or organism</desc>
+               </org>
+               <org>
+                  <orgName xml:id="UIR-COM">Inhabitants of Commelles</orgName>
+                  <desc>The communauty of inhabitants of Commelles</desc>
+               </org>
+            </listOrg>
+            <listPlace>
+               <place xml:id="COM-01">
+                  <placeName>Commelles</placeName>
+                  <location>
+                     <geo>49° 09′ 25.29″ N, 2° 29′ 24.66″ E</geo>
+                     <!-- lat long -->
+                  </location>
+                  <idno type="wikidata">Q288983</idno>
+               </place>
+               <place xml:id="ALN-01">
+                  <placeName>wood of the Alne near to Commelles</placeName>
+                  <location>
+                     <geo>49° 09′ 25.29″ N, 2° 29′ 24.66″ E</geo>
+                     <!-- lat long -->
+                  </location>
+                  <idno type="wikidata"></idno>
+               </place>
+               <place xml:id="YSE-01">
+                  <placeName>wood of Ysembart</placeName>
+                  <location>
+                     <geo></geo>
+                     <!-- lat long -->
+                  </location>
+                  <idno type="wikidata"></idno>
+               </place>
+            </listPlace>
+            <listRelation>
+               <relation name="HasSpouse" category="kinship" active="#CHA-02" passive="#JEA-01"/> 
+               <relation name="HasLegalDispute" category="legal" active="#SIM-01" passive="CHAALIS"/>
+               <relation name="HasLegalDispute" category="legal" active="#CHA-01" passive="CHAALIS"/>
+               <relation name="HasLegalDispute" category="legal" active="#NAN-01" passive="URI-COM"/>
+               <relation name="HasLegalDispute" category="legal" active="#CHA-01 JEA-01" passive="URI-COM"/>
+               <relation name="HasDonor" category="economic" active="#BOU-01" passive="#CHAALIS"/> 
+               <relation name="HasDonor" category="economic" active="#BOL-01" passive="#CHAALIS"/> 
+                  
+            </listRelation>
+          </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <pb/>
+         <div>
+            <head> De Commellis </head>
+         </div>
+         <div n="550" type="chart">
+            <lb/><note place="margin-left">550</note><p><persName ref="#SIM-01">Symonis de Poissiaco</persName> militis et C. uxoris<note place="margin-right">XV</note></p>
+            <lb/><p>ejus qui quittavint <orgName ref="#CHAALIS">ecclesie karoliloci</orgName> quic</p>
+            <lb/><p>quid reclamabunt in nemoribus dicte ecclesie qui</p>
+            <lb/><p>sunt de feodo de Mellou ad grangiam de <placeName ref="#COM-01">commellis</placeName></p>
+            <lb/><p>pertinentibus nichil omnino de certo reclamare.</p>
+          </div>
+         
+         <div n="551" type="chart">
+           <lb/><note place="margin-left">550</note><p><persName ref="#BOU-01">Radulphi Buticularii</persName> <add>C m° CC° XXXIIII</add><note place="margin-right">XVI</note></p>
+            <lb/><note place="margin-left">nemus les Alnes</note><p>qui in puram elemosinam dedit <orgName ref="#CHAALIS">ecclesie karoliloci</orgName></p>
+           <lb/><p> totum nemus suum situs in loco qui dicitur <placeName ref="ALN">les alnes</placeName></p>
+           <lb/><p>inter nemus <orgName ref="#CHAALIS">dicte ecclesie</orgName> et nemus quod dominorum</p>
+           <lb/><p>perpetuo possedendum. m° cc° L°</p>
+         </div>
+         <div n="552" type="chart">
+          
+            <lb/><note place="margin-left">552</note><p> <persName ref="#BOL-01">Matildis comitissa Boloniem</persName> que concessit<note place="margin-right">XVII</note></p>
+            <lb/><p>donum et elemosinam quam fecit <orgName ref="#CHAALIS">ecclesie karoliloci</orgName> <persName>Radol</persName></p>
+            <lb/><p><persName>phus quondam buticularii</persName> de nemore quod dicitur</p>
+            <lb/><p><placeName ref="#ALN-01">les alnes suo apud commellis</placeName> que concessit ele</p>
+            <lb/><p>mosinam quam  facit idem <persName ref="#BOU-01">R.</persName> <orgName ref="#CHAALIS">prefate ecclesie</orgName></p>
+            <lb/><p>de octo modiis avene recipiendis annuatim</p>
+            <lb/><p>apud borrez quos B. dedit ad sustenta?</p>
+            <lb/><p>C lebrarium M CC LV</p>
+            <lb/><p>Cartam dominus Radul</p>
+            <lb/><p> phi de dono hujus avene requ? in titulo </p>
+            <lb/><p> de possessionibus acta abbatiam.</p>
+         </div>
+         <div n="553" type="chart">
+           
+            <lb/><p><persName ref="#CHA-01">Guillermi de Chantilli</persName> militis qui remisis</p>
+            <lb/><p>petitur et quittavit omnem querelam quod move</p>
+         </div>
+         
+         <pb/>
+         <div>
+            <head> De Commellis
+               <fw type="pageNum" place="top-right">CLVII</fw>
+               <fw type="pageNum" place="margin-right">170</fw>
+            </head>
+         </div>
+         <div n="553" type="chart">
+            <lb/><p>rat aversis <orgName ref="#CHAALIS">ecclesiam karoliloci</orgName> super nemore <orgName>dicte ecclesie</orgName></p><note place="margin-right">nemus</note>
+            <lb/><p>nemori <placeName ref="YSE">bus Ysembart</placeName> un super omnes vuas usita</p><note place="margin-right">bus Ysembart</note>
+            <lb/><p> tas vereres et consuetas usqum per terras suas et ne</p>
+            <lb/><p>mora fratribus <orgName ref="#CHAALIS">dicte eccelsie</orgName> concessit libere et quiete perpe</p>
+            <lb/><p>tuo possidendas concessit in super ut  ?</p>
+            <lb/><p>dictorum religiosum aras suagittas et aru? libere et  ?</p>
+            <lb/><p>possuit ubsquem dbere. M CC XXXIIII</p>
+          
+         </div>
+         <div n="554" type="chart">
+         
+            <lb/><note place="margin-left">XVII b</note><p><persName ref="#NAN-01">Johannis de Nantoillet</persName> qui quittavit gran</p><note place="margin-right">554</note>
+            <lb/><p>gieram quam reclemabant in nemoribus uiris</p><note place="margin-right">feodo de Mellou</note>
+            <lb/><p>de <placeName ref="#COM-01">Commellis</placeName> qui sunt de feodo de Mellou <add>m° cc°</add></p>
+         </div>
+         <div n="555" type="chart">
+            <lb/><note place="margin-left">XVII c</note> <p><persName ref="#CHA-02">Domini Johannis de Chan</persName> <add>C XXXLVII</add></p><note place="margin-right">555</note>
+            <lb/><p><persName>tilli </persName>militis et domine <persName>Johane uxeris</persName> sue quod cum</p>
+            <lb/><p>certe orta contentis inter ipsos ex una parte et <orgName ref="#CHAALIS">ecclesia</orgName></p>
+            <lb/><p><orgName ref="#CHAALIS">karoliloci</orgName> ex altera super divisis  pecunio <unclear>[indel]</unclear></p>
+            <lb/><p>super duodecim libratis annuii redditur quos gui</p>
+            <lb/><p><unclear>[..]</unclear> assignaverat ad quandam</p>
+            <lb/><p>capellannam facidendam in ecclesia predicta carte sup</p>
+            <lb/><p>er quod sibi venditabar garennam in nemore</p>
+            <lb/><p><orgName ref="#CHAALIS">abbatis</orgName> sito inter viam que ducit de <placeName ref="#COM-01">commellis</placeName> </p>
+            <lb/><p><unclear>[..]</unclear> et nemori ipsius quod dicit <placeName ref="#YSE-01">bus ysembart</placeName></p>
+            <lb/><p>actem super eo quod dicebat que pastores dicte ecclesie</p>
+            <lb/><p>no poterans ?? sua ducem sine lettra per io</p> 
+            <lb/><p>ea in quibus que reclamabat gueriam ?</p>
+            <lb/><p> dem bonorum ductui consilio censu <persName ref="#CHA-02">prefatus Johannes</persName> </p>
+         </div>
+      </body>
+      
+   </text>
+</TEI>
