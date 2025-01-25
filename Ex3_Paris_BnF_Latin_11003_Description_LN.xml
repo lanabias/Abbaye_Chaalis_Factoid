@@ -313,16 +313,16 @@
             <lb/><p><placeName ref="#ALN-01">les alnes sito <choice><am>apd'</am><ex>apud</ex></choice> commellis</placeName> qui <choice><am>&con;cessit</am><ex>concessit</ex></choice> ele</p>
             <lb/><p>mosinam <choice><am>qu&amacr;</am><ex>quam</ex></choice>fecit idem <persName ref="#BOU-01">R.</persName> <orgName ref="#CHAALIS">prefate <choice><am>ecclie</am><ex>ecclesie</ex></choice></orgName></p>
             <lb/><p>de octo modiis avene recipiendis annuatim</p>
-            <lb/><p>apud borrez quos B. dedit ad sustenta?</p>
-            <lb/><p>C lebrarium M CC LV</p>
-            <lb/><p>Cartam dominus Radul</p>
-            <lb/><p> phi de dono hujus avene requ? in titulo </p>
-            <lb/><p> de possessionibus acta abbatiam.</p>
+            <lb/><p><choice><am>apd'</am><ex>apud</ex></choice> borrez quos B. dedit ad <choice><am>sustentat&omacr;nem</am><ex>sustentationem</ex></choice></p>
+            <lb/><unclear></unclear> monachi ad <choice><am>port&amacr;</am><ex>portam</ex></choice> <choice><am>kar&er;</am><ex>karoliloci</ex></choice> <choice><am>&p;</am><ex>per</ex></choice> <choice><am>&ip&omacr;</am><ex>ipso</ex></choice> donatione
+            <lb/><p>Cartam dominus Radul</p><add>C lebrarium M CC LV</add>
+            <lb/><p> phi de dono hujus avene require in titulo </p>
+            <lb/><p> de <choice><am>possessionib&us;</am><ex>possessionibus</ex></choice> acta abbatiam.</p>
          </div>
          <div n="553" type="chart">
            
-            <lb/><p><persName ref="#CHA-01">Guillermi de Chantilli</persName> militis qui remisis</p>
-            <lb/><p>petitur et quittavit omnem querelam quod move</p>
+            <lb/><p><persName ref="#CHA-01"><choice><am>Guill&imacr;</am><ex>Guillermi</ex></choice> de Chantilli</persName> militis qui remisit</p>
+            <lb/><p><choice><am>penit&er;</am><ex>peniter</ex></choice> et quittavit omnem <choice><am>&qbar;relam</am><ex>querelam</ex></choice> quod move</p>
          </div>
          
          <pb/>
@@ -333,13 +333,13 @@
             </head>
          </div>
          <div n="553" type="chart">
-            <lb/><p>rat aversis <orgName ref="#CHAALIS">ecclesiam karoliloci</orgName> super nemore <orgName>dicte ecclesie</orgName></p><note place="margin-right">nemus</note>
-            <lb/><p>nemori <placeName ref="YSE">bus Ysembart</placeName> un super omnes vuas usita</p><note place="margin-right">bus Ysembart</note>
-            <lb/><p> tas vereres et consuetas usqum per terras suas et ne</p>
-            <lb/><p>mora fratribus <orgName ref="#CHAALIS">dicte eccelsie</orgName> concessit libere et quiete perpe</p>
-            <lb/><p>tuo possidendas concessit in super ut  ?</p>
-            <lb/><p>dictorum religiosum aras suagittas et aru? libere et  ?</p>
-            <lb/><p>possuit ubsquem dbere. M CC XXXIIII</p>
+            <lb/><p>rat <choice><am>ad&uer;sus</am><ex>adversus</ex></choice> <orgName ref="#CHAALIS"><choice><am>ecclie</am><ex>ecclesie</ex></choice> <choice><am>kar</am><ex>karoliloci</ex></choice></orgName> <choice><am>su&p;</am><ex>super</ex></choice>  nemore <orgName><choice><am>dte</am><ex>dicte</ex></choice> <choice><am>ecclie</am><ex>ecclesie</ex></choice></orgName></p><note place="margin-right">nemus</note>
+            <lb/><p><choice><am>dto</am><ex>dicto</ex></choice> <placeName ref="YSE">bus Ysembart</placeName> un <choice><am>su&p;</am><ex>super</ex></choice> omnes vias usita</p><note place="margin-right">bus Ysembart</note>
+            <lb/><p>tas vereres et <choice><am>&con;suetas</am><ex>consuetas</ex></choice> <choice><am>ubiq&z;</am><ex>ubisqus</ex></choice> per <choice><am>t&er;as</am><ex>terras</ex></choice> suas et ne</p>
+            <lb/><p>mora <choice><am>fr&amacr;b&z;</am><ex>fratribus</ex></choice> <orgName ref="#CHAALIS"><choice><am>dte</am><ex>dicte</ex></choice><choice><am>ecclie</am><ex>ecclesie</ex></choice></orgName> <choice><am>&con;cessit</am><ex>concessit</ex></choice> libere et quiete <choice><am>&p;pe</am><ex>perpe</ex></choice></p>
+            <lb/><p>tuo possidendas concessit in <choice><am>su&p;</am><ex>super</ex></choice> ut forestam</p>
+            <lb/><p><choice><am>dicto&rum;</am><ex>dictorum</ex></choice> <choice><am>relig</am><ex>religiosum</ex></choice> arcus suagittas et arma <choice><am>libe&er;</am><ex>libere</ex></choice> et <choice><am>fece&er;</am><ex>fecere</ex></choice></p>
+            <lb/><p>possint <choice><am>ubsq&us;</am><ex>ubsqus</ex></choice> deferre. M CC XXXIIII</p>
           
          </div>
          <div n="554" type="chart">
