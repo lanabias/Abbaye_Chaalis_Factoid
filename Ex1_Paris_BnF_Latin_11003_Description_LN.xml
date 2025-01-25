@@ -334,18 +334,18 @@
 
             <div n="120" type="chart">
               <lb/> <note place="margin-left">VI</note> <p>Ego <persName ref="#PHI">philippus </persName><add>Philippi de Villa nova</add></p><note place="margin-right">120</note>
-              <lb/>  <p><persName ref="#PHI-01">de villa nova</persName> vice dominus silvanectensis notum</p>
-              <lb/>  <p>facio quod cum ego et <persName>mater mea</persName> et <persName>fratres mei</persName> mo</p>
-              <lb/>  <p>lestaremus <orgName ref="#CHAALIS">uiros religiosos abbatem et conven</orgName></p>
-               <lb rend="hyphen"/> <p><orgName ref="#CHAALIS">tum</orgName> super quondam pecia vine sita in suo clauso</p> 
-               <lb/> <p>de <placeName>berron</placeName> a domino <persName ref="#EUD-01">odone de gonessa</persName> et <persName ref="#ISA-01">uxore</persName> </p>
-               <lb/> <p>sua eisdem in puram et perpetuam elemosinam</p> 
-               <lb/> <p>collata. Quandem ex bonorum uirorum testimo</p>
-               <lb/> <p>nio didicimus nos nichil juris habere pe??</p> 
-               <lb/> <p>In eadem dude nos sano usi consilio eisdem</p> 
-               <lb/> <p><orgName ref="#CHAALIS">abbati et conventui</orgName> quicquid super dictam vi</p>
-               <lb rend="hyphen"/> <p>neam <choice><am>reclamaveram</am><ex>reclamaveramus</ex></choice> in pace <choice><am>dimisim</am><ex>dimisimus</ex></choice> </p>
-               <lb/> <p>libere et quiete in <choice><am>&#xA751;petu&#x016A;</am> <ex>perpetuum</ex></choice> possidendum. Datum</p> 
+              <lb/>  <p><persName ref="#PHI-01">de villa nova</persName> vice <choice><am>dns</am> <ex>dominus</ex> </choice> <choice><am>silvanecte&#xE7B2;</am><ex>silvanectensis</ex></choice> <choice><am>not&umacr;</am><ex>notum</ex></choice></p>
+              <lb/>  <p>facio <choice><am>qd'</am><ex>quod</ex></choice> <choice><am>c&umacr;</am> <ex>cum</ex> </choice> ego et <persName>mater mea</persName> et <persName><choice><am>fr&emacr;s</am> <ex>fratres</ex> </choice> mei</persName> mo</p>
+              <lb/>  <p>lestaremus <orgName ref="#CHAALIS">uiros religiosos <choice><am>abb&emacr;m</am> <ex>abbatem</ex> </choice> et <choice><am>conv&emacr;</am> <ex>conven</ex> </choice></orgName></p>
+               <lb rend="hyphen"/> <p><orgName ref="#CHAALIS"><choice><am>t&umacr;</am> <ex>tum</ex> </choice></orgName> <choice><am>su&p;</am> <ex>super</ex> </choice> <choice><am>qdam</am> <ex>quondam</ex> </choice> pecia vinee sita in suo clauso</p> 
+               <lb/> <p>de <placeName>berron</placeName> a <choice><am>dno</am> <ex>domino</ex> </choice> <persName ref="#EUD-01">odone de gonessa</persName> et <persName ref="#ISA-01">uxore</persName> </p>
+               <lb/> <p>sua eisdem in puram et <choice><am>&#xA751;petuam</am><ex>perpetuam</ex></choice> elemosi</p> 
+               <lb/> <p><choice><am>n&amacr;</am> <ex>nam</ex> </choice> collata. <choice><am>Tand&emacr;</am> <ex>Tandem</ex> </choice>ex <choice><am>boni&rum;</am> <ex>bonirum/ex> </choice> <choice><am>uiro&rum;</am> <ex>uirorum</ex> </choice testimo</p>
+               <lb/> <p> nio <choice><am>didicim&us;</am> <ex>didicimus</ex> </choice> nos nichil juris habere <choice><am>penit&er;</am> <ex>peniter</ex> </choice</p> 
+               <lb/> <p>in eadem dude nos sano usi <choice><am>&con;silio</am> <ex>consilio</ex> </choice <choice><am>eisd&emacr;</am> <ex>eisdem</ex> </choice></p> 
+               <lb/> <p><orgName ref="#CHAALIS"><choice><am>abbi</am> <ex>abbati</ex> </choice>et conventui</orgName> quicquid <choice><am>su&p;</am> <ex>super</ex> </choice> <choice><am>dt&amacr;m</am> <ex>dictam</ex> </choice> vi</p>
+               <lb rend="hyphen"/> <p>neam <choice><am>reclamaveram&us;</am><ex>reclamaveramus</ex></choice> in pace <choice><am>dimisim&us;</am><ex>dimisimus</ex></choice> </p>
+               <lb/> <p><choice><am>libe&er;</am> <ex>libere</ex> </choice> et quiete in <choice><am>&#xA751;petu&#x016A;</am> <ex>perpetuum</ex></choice> <choice><am>possidend&umacr;</am><ex>possidendum/ex></choice> Datum</p> 
                <lb/> <p>anno <choice><am>d&#xE1B8;</am><ex>domini</ex></choice> m. CC. XL quarto.</p>
             </div>
          
