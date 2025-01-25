@@ -284,33 +284,34 @@
    </teiHeader>
    <text>
       <body>
-         
+         hoice> i</orgNam
          <pb/>
          <div>
             <head> De Commellis </head>
          </div>
          <div n="550" type="chart">
             <lb/><note place="margin-left">550</note><p><persName ref="#SIM-01">Symonis de Poissiaco</persName> militis et C. uxoris<note place="margin-right">XV</note></p>
-            <lb/><p>ejus qui quittavint <orgName ref="#CHAALIS">ecclesie karoliloci</orgName> quic</p>
-            <lb/><p>quid reclamabunt in nemoribus dicte ecclesie qui</p>
-            <lb/><p>sunt de feodo de Mellou ad grangiam de <placeName ref="#COM-01">commellis</placeName></p>
-            <lb/><p>pertinentibus nichil omnino de certo reclamare.</p>
+            <lb/><p>ejus qui qui quittavint <orgName ref="#CHAALIS"><choice><am>ecclie</am><ex>ecclesie</ex></choice> <choice><am>kar</am><ex>karoliloci</ex></choice> quic</p>
+            <lb/><p>quid reclamabunt in <choice><am>nemorib</am><ex>nemoribus</ex></choice> <choice><am>dte</am><ex>dicte</ex></choice> <choice><am>ecclie</am><ex>ecclesie</ex></choice> qui</p>
+            <lb/><p><choice><am>s&umacr;t</am><ex>sunt</ex></choice> de feodo de Mellou ad <choice><am>g&;ngiam</am><ex>grangiam</ex></choice> de <placeName ref="#COM-01"><choice><am>&com;ell'</am><ex>Comellis</ex></choice></placeName></p>
+            <lb/><p><choice><am>p&er;tinentib&z;</am><ex>pertinentibus</ex></choice> tam grierie <choice><am>p&er;tinentes</am><ex>pertinentes</ex></choice> <note place="margin-right">IIIII</note </p>
+            <lb><p><choice><am>nemoribz</am><ex>nemoribus</ex></choice> nichil <choice><am>omnio</am><ex>omnino</ex></choice> de <choice><am>ceto</am><ex>certo</ex></choice> reclamare.</p>
           </div>
          
          <div n="551" type="chart">
-           <lb/><note place="margin-left">550</note><p><persName ref="#BOU-01">Radulphi Buticularii</persName> <add>C m° CC° XXXIIII</add><note place="margin-right">XVI</note></p>
-            <lb/><note place="margin-left">nemus les Alnes</note><p>qui in puram elemosinam dedit <orgName ref="#CHAALIS">ecclesie karoliloci</orgName></p>
-           <lb/><p> totum nemus suum situs in loco qui dicitur <placeName ref="ALN">les alnes</placeName></p>
-           <lb/><p>inter nemus <orgName ref="#CHAALIS">dicte ecclesie</orgName> et nemus quod dominorum</p>
-           <lb/><p>perpetuo possedendum. m° cc° L°</p>
+           <lb/><note place="margin-left">550</note><p><persName ref="#BOU-01">Radulphi <choice><am>Butic&umacr;larii</am><ex>Buticularii</ex></choice></persName> <add>C m° CC° XXXIIII</add><note place="margin-right">XVI</note></p>
+            <lb/><note place="margin-left">nemus les Alnes</note><p>qui in puram <choice><am>elemosin&amarc;</am><ex>elemosinam</ex></choice> dedit <orgName ref="#CHAALIS"><choice><am>ecclie</am><ex>ecclesie</ex></choice> <choice><am>kar</am><ex>karoliloci</ex></choice></orgName></p>
+           <lb/><p> <choice><am>tot&umarcr;</am><ex>totum</ex></choice> nemus <choice><am>su&umarcr;</am><ex>suus</ex></choice> situs in loco qui <choice><am>dicit&ur;</am><ex>dicitur</ex></choice> <placeName ref="ALN">les alnes</placeName></p>
+           <lb/><p>inter nemus <orgName ref="#CHAALIS">dicte <choice><am>ecclie</am><ex>ecclesie</ex></choice></orgName> et nemus quod <unclear>dominorum</unclear></p>
+           <lb/><p><choice><am>&#xA751;petuo</am> <ex>perpetuo</ex></choice> <choice><am>possidend&umacr;</am> <ex>possidendum</ex></choice>. m° cc° L°</p>
          </div>
+         
          <div n="552" type="chart">
-          
-            <lb/><note place="margin-left">552</note><p> <persName ref="#BOL-01">Matildis comitissa Boloniem</persName> que concessit<note place="margin-right">XVII</note></p>
-            <lb/><p>donum et elemosinam quam fecit <orgName ref="#CHAALIS">ecclesie karoliloci</orgName> <persName>Radol</persName></p>
-            <lb/><p><persName>phus quondam buticularii</persName> de nemore quod dicitur</p>
-            <lb/><p><placeName ref="#ALN-01">les alnes suo apud commellis</placeName> que concessit ele</p>
-            <lb/><p>mosinam quam  facit idem <persName ref="#BOU-01">R.</persName> <orgName ref="#CHAALIS">prefate ecclesie</orgName></p>
+            <lb/><note place="margin-left">552</note><p> <persName ref="#BOL-01">Matildis comitissa Bolonie</persName> que <choice><am>&con;cessit</am> <ex>concessit</ex></choice><note place="margin-right">XVII</note></p>
+            <lb/><p><choice><am>don&umacr;</am> <ex>donum</ex></choice> et <choice><am>elemosin&amarc;</am><ex>elemosinam</ex></choice> <choice><am>qu&amacr;</am><ex>quam</ex></choice> fecit <orgName ref="#CHAALIS"><choice><am>ecclie</am><ex>ecclesie</ex></choice> <choice><am>kar</am><ex>karoliloci</ex></choice</orgName> <persName>Radul</persName></p>
+            <lb/><p><persName> <choice><am>ph&us;</am><ex>phus</ex></choice> quondam buticularii</persName> de nemore <choice><am>qd'</am><ex>quod</ex></choice> <choice><am>dicit&ubreve;</am><ex>dicitur</ex></choice></p>
+            <lb/><p><placeName ref="#ALN-01">les alnes sito <choice><am>apd'</am><ex>apud</ex></choice> commellis</placeName> qui <choice><am>&con;cessit</am><ex>concessit</ex></choice> ele</p>
+            <lb/><p>mosinam <choice><am>qu&amacr;</am><ex>quam</ex></choice>fecit idem <persName ref="#BOU-01">R.</persName> <orgName ref="#CHAALIS">prefate <choice><am>ecclie</am><ex>ecclesie</ex></choice></orgName></p>
             <lb/><p>de octo modiis avene recipiendis annuatim</p>
             <lb/><p>apud borrez quos B. dedit ad sustenta?</p>
             <lb/><p>C lebrarium M CC LV</p>
