@@ -316,21 +316,22 @@
             <lb/> <note place="margin-left"><choice><am>Admortisd</am><ex>Admortisadis</ex></choice> <choice><am>gnalis</am><ex>generalis</ex></choice></note><p>ul alio modo acquisierant in feodo castellanie</p>
             <lb/> <p><choice><am>Montmel'</am><ex>Montmelianti</ex></choice> <choice><am>anteqm</am><ex>antequam</ex></choice> <choice><am>catellan</am><ex>catellanum</ex></choice> <choice><am>eet</am><ex>emet</ex></choice> et <choice><am>quicqd</am><ex>quicquid</ex></choice> <choice><am>acq'</am><ex>acqui</ex></choice></p>
             <lb/> <p><choice><am>sierut</am><ex>sierunt</ex></choice> a tempo quo <choice><am>fres</am><ex>fratres</ex></choice>sint <choice><am>dus</am><ex>duos</ex></choice> <choice><am>pfati</am><ex>prefati</ex></choice> castri <choice><am>usqs</am><ex>usqus</ex></choice></p>
-            <lb/> <p>ad <choice><am>annu</am><ex>annuum</ex></choice> domnium melli? CC decantum concessirant</p>
-            <lb/> <p>eos LXX totum quitum et miberum absqus retnentione ad faci</p>
-            <lb/> <p><choice><am>endu</am><ex>endum</ex></choice> <choice><am>qd</am><ex>quod</ex></choice> <choice><am>voluerit</am><ex>voluerint</ex></choice> ac permisit <choice><am>ct</am><ex>contra</ex></choice> [quis] garandi</p>
-            <lb/> <p>re saluo redditu suo. Anno M CC X</p>
+            <lb/> <p>ad <choice><am>annu</am><ex>annuum</ex></choice> <choice><am>dni</am><ex>dominum</ex></choice> <choice><am>millm</am><ex>millesimum</ex></choice> CC decantum concessirant</p>
+            <lb/> <p>eis LXX <choice><am>totu</am><ex>totum</ex></choice> <choice><am>quittu</am><ex>quittum</ex></choice> et <choice><am>liberu</am><ex>liberum</ex></choice> <choice><am>absq&szlig;</am><ex>absqus</ex></choice><choice><am>retenti&Omacr;e</am><ex>retentione</ex></choice> ad faci</p>
+            <lb/> <p><choice><am>endu</am><ex>endum</ex></choice> <choice><am>qd'</am><ex>quod</ex></choice> <choice><am>voluerit</am><ex>voluerint</ex></choice> ac permisit <choice><am>ct</am><ex>contra</ex></choice> <unclear>quis</unclear> garandi</p>
+            <lb/> <p>re saluo redditu suo. Anno m CC X</p>
             
          </div>
          <div n="469" type="chart">
-            <lb/><p><persName ref="#RIC-02">Richardi <del>de u</del> <choice><am>ejde</am><ex>ejusdem</ex></choice> de <choice><am>Vernone</am><ex>Vernone</ex></choice></persName> deprantis <choice><am>hedes</am><ex>heredes</ex></choice></p>
-          <lb/><p>suos s. de montemelian duos ue ecclasiam karoliloci</p>
-            <lb/><p>molestent super hujusque dicte ecclesie data sunt ab <choice><am>eode</am><ex>eodem</ex></choice></p>
+            <lb/><p><persName ref="#RIC-02">Richardi <del>de u</del> <choice><am>eide</am><ex>ejusdem</ex></choice> de <choice><am>vnone</am><ex>Vernone</ex></choice></persName> de <choice><am>ptantis</am><ex>pretantis</ex></choice> <choice><am>hedes</am><ex>heredes</ex></choice></p>
+          <lb/><p>suos s. de montemelian <choice><am>dos</am><ex>dominos</ex></choice> ne ecclasiam <choice><am>kar</am><ex>karoliloci</ex></choice></p>
+            <lb/><p>molestent <choice><am>sup</am><ex>super</ex></choice> <choice><am>hujusq</am><ex>hujusque</ex></choice> <choice><am>dte</am><ex>dicte</ex></choice> <choice><am>ecce</am><ex>ecclesie</ex></choice> data <choice><am>sut</am><ex>sunt</ex></choice> ab <choice><am>eode</am><ex>eodem</ex></choice></p>
             
          </div>
          <div n="470" type="chart">
-            <lb/><p><persName ref="#JEA-01">Johannis de Bellomonte camerarii francie</persName> qui</p>
-            <lb/>   <p>mandavit et percepit proposito silvanectensis ut homines </p>
+            <lb/><p><persName ref="#JEA-01">Johannis de Bellomonte camerarii francie</persName> <choice><am>qi</am><ex>qui</ex></choice></p>
+            <lb/>   <p>mandavit et <choice><am>pcepit</am><ex>percepit</ex></choice> <choice><am>pposito</am><ex>proposito</ex></choice>  <choice><am>e&#xE665;i</am><ex>episcopus</ex></choice></persName> <choice><am>qd</am><ex>quod</ex></choice> <add>sum de Verrone</add></p>
+               <lb/><p><persName ref="#GUI-00"><cho ut homines </p>
             <lb/>  <p>de silvanectensis et alios quam plures qui ecclesiam in </p>
             <lb/> <p>suis brueriis nemoribus de <placeName ref="#ESP-01">espyonia</placeName> <placeName ref="#TRE-01">trembleel</placeName> </p>
             <lb/> <p>et <placeName ref="#BEL-01">beeloy</placeName> indique adjacentibus que se extendunt a</p>
