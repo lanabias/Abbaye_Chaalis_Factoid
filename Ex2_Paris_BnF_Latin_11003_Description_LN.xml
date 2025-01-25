@@ -330,14 +330,13 @@
          </div>
          <div n="470" type="chart">
             <lb/><p><persName ref="#JEA-01">Johannis de Bellomonte camerarii francie</persName> <choice><am>qi</am><ex>qui</ex></choice></p>
-            <lb/>   <p>mandavit et <choice><am>pcepit</am><ex>percepit</ex></choice> <choice><am>pposito</am><ex>proposito</ex></choice>  <choice><am>e&#xE665;i</am><ex>episcopus</ex></choice></persName> <choice><am>qd</am><ex>quod</ex></choice> <add>sum de Verrone</add></p>
-               <lb/><p><persName ref="#GUI-00"><cho ut homines </p>
-            <lb/>  <p>de silvanectensis et alios quam plures qui ecclesiam in </p>
-            <lb/> <p>suis brueriis nemoribus de <placeName ref="#ESP-01">espyonia</placeName> <placeName ref="#TRE-01">trembleel</placeName> </p>
-            <lb/> <p>et <placeName ref="#BEL-01">beeloy</placeName> indique adjacentibus que se extendunt a</p>
-            <lb/> <p>cruce douleu per metas positas in justice movens se </p>
-            <lb/> <p>extendentu iusus silvanectensis et descendunt ad cru</p>
-            <lb/> <p>cem de tertio et ad harpun fontem et per metas ?</p>
+            <lb/><p>mandavit et <choice><am>pcepit</am><ex>percepit</ex></choice> <choice><am>pposito</am><ex>proposito</ex></choice><choice><am>silvanecte&#xE7B2;</am><ex>silvanectensis</ex></choice></persName> ut <choice><am>he&eacute;dib&szlig;</am><ex>heredibus</ex></choice> </p>
+            <lb/><p>de <choice><am>silvanecte&#xE7B2;</am><ex>silvanectensis</ex></choice> et alios <choice><am>qua</am><ex>quam</ex></choice> plures qui <choice><am>eccliam</am><ex>ecclesiam</ex></choice> <choice><am>i</am><ex>in</ex></choice> </p>
+            <lb/><p>suis brueriis nemoribus de <placeName ref="#ESP-01">espyonia</placeName> <placeName ref="#TRE-01">trembleel</placeName> </p>
+            <lb/><p>et <placeName ref="#BEL-01">beeloy</placeName> <choice><am>undiq;</am><ex>undique</ex></choice> adjacentibus que se <choice><am>extendut</am><ex>extendunt</ex></choice> a</p>
+            <lb/><p>cruce douleu <choice><am>p</am><ex>per</ex></choice> metas positas <choice><am>i</am><ex>in</ex></choice>  <choice><am>utice</am><ex>justice</ex></choice>  <choice><am>mons</am><ex>movens</ex></choice> se </p>
+            <lb/><p><choice><am>extendetis</am><ex>extendentis</ex></choice> usus <choice><am>silvanecte&#xE7B2;</am><ex>silvanectensis</ex></choice> et <choice><am>descendut</am><ex>descendunt</ex></choice> ad cru</p>
+            <lb/><p>cem de <choice><am>ttio</am><ex>tertio</ex></choice  et ad harpun fontem et <choice><am>p</am><ex>per</ex></choice metas predictas</p>
          </div>
     
          <pb/>
