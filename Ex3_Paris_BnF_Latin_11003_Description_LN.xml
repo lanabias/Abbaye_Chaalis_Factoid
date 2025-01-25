@@ -344,14 +344,14 @@
          </div>
          <div n="554" type="chart">
          
-            <lb/><note place="margin-left">XVII b</note><p><persName ref="#NAN-01">Johannis de Nantoillet</persName> qui quittavit gran</p><note place="margin-right">554</note>
-            <lb/><p>gieram quam reclemabant in nemoribus uiris</p><note place="margin-right">feodo de Mellou</note>
-            <lb/><p>de <placeName ref="#COM-01">Commellis</placeName> qui sunt de feodo de Mellou <add>m° cc°</add></p>
+            <lb/><note place="margin-left">XVII b</note><p><persName ref="#NAN-01">Johannis de Nantoillet</persName> qui quittavit gri</p><note place="margin-right">554</note>
+            <lb/><p>eram quam <choice><am>reclamab&amacr;t</am><ex>reclamabant</ex></choice> in <choice><am>nemorib&z;</am><ex>nemoribus</ex></choice> uiris</p><note place="margin-right">feodo de Mellou</note>
+            <lb/><p>de <placeName ref="#COM-01">Commellis</placeName> que <choice><am>s&umacr;t</am><ex>sunt</ex></choice> de feodo de Mellou <add>m° cc°</add></p>
          </div>
          <div n="555" type="chart">
             <lb/><note place="margin-left">XVII c</note> <p><persName ref="#CHA-02">Domini Johannis de Chan</persName> <add>C XXXLVII</add></p><note place="margin-right">555</note>
-            <lb/><p><persName>tilli </persName>militis et domine <persName>Johane uxeris</persName> sue quod cum</p>
-            <lb/><p>certe orta contentis inter ipsos ex una parte et <orgName ref="#CHAALIS">ecclesia</orgName></p>
+            <lb/><p><persName>tilli </persName>militis et <choice><am>dne</am><ex>domine</ex></choice><persName>Johane uxeris</persName> sue <choice><am>qd'</am><ex>quod</ex></choice> <choice><am>c&umacr;</am><ex>cum</ex></choice></p>
+            <lb/><p><choice><am>c&emacr;r</am><ex>certe</ex></choice> orta <choice><am>&con;tentis</am><ex>contentis</ex></choice><choice><am>int&er;</am><ex>inter</ex></choice> <choice><am>ipos</am><ex>ipsos</ex></choice> ex una parte et <orgName ref="#CHAALIS">ecclesia</orgName></p>
             <lb/><p><orgName ref="#CHAALIS">karoliloci</orgName> ex altera super divisis  pecunio <unclear>[indel]</unclear></p>
             <lb/><p>super duodecim libratis annuii redditur quos gui</p>
             <lb/><p><unclear>[..]</unclear> assignaverat ad quandam</p>
