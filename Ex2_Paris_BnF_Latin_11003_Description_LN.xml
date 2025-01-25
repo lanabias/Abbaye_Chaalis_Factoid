@@ -347,8 +347,8 @@
             </head>
          </div>
           <div n="470" type="chart">
-             <lb/><p>annuantes brueriai dicte ecclesie et communem pasturam</p>
-             <lb/><p><placeName ref="#CHA-01">karolipontis</placeName> et <placeName ref="#PLA-01">plailliaci</placeName> usqus ad loco qui dicitur</p>
+             <lb/><p>annuantes brueriai <choice><am>dte</am><ex>dicte</ex></choice <choice><am>ecclie</am><ex>ecclesie</ex></choice>  et <choice><am>cmune</am><ex>communem</ex></choice><choice><am>pastura</am><ex>pasturam</ex></choice> </p>
+             <lb/><p><placeName ref="#CHA-01">karolipontis</placeName> et <placeName ref="#PLA-01">plailliaci</placeName> usqus ad loco qui <choice><am>dicit</am><ex>dicitur</ex></choice> </p>
              <lb/><p>malus passus molestabantur auctoritate <persName ref="#LOU-01">regi</persName> </p>
              <lb/><p>a conpes cum homines de silvanectensis ut alii </p>
              <lb/><p>jus pasturam ul usagium in locii ? Supradicti. </p>
